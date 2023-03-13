@@ -222,7 +222,7 @@ export default function PrivacyPolicy() {
               identifiable information may include, but is not limited to:
             </p>
 
-            <ul className="list-disc pl-5">  
+            <ul className="list-disc pl-5">
               <li>
                 <p className="text-sm sm:text-base mb-3 leading-7">
                   Email address
@@ -337,100 +337,180 @@ export default function PrivacyPolicy() {
           {/* Section 6 */}
           <section className="mb-4 sm:mb-8 text-gray-900">
             <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
-              6.	Use of Your Personal Data
+              6. Use of Your Personal Data
             </h3>
 
             <p className="text-sm sm:text-base mb-3 leading-7">
-            The Company may use Personal Data for the following purposes:
+              The Company may use Personal Data for the following purposes:
             </p>
 
             <ul className="list-disc pl-5">
               <li>
                 <p className="text-sm sm:text-base mb-3 leading-7">
-                  Email address
+                  <span className="font-semibold">
+                    To provide and maintain our Service
+                  </span>
+                  , including monitoring the usage of our Service.
                 </p>
               </li>
               <li>
                 <p className="text-sm sm:text-base mb-3 leading-7">
-                  First name and last name
-                </p>
-              </li>
-
-              <li>
-                <p className="text-sm sm:text-base mb-3 leading-7">
-                  Phone number
-                </p>
-              </li>
-
-              <li>
-                <p className="text-sm sm:text-base mb-3 leading-7">
-                  Address, State, Province, ZIP/Postal code, City
+                  <span className="font-semibold">To Manage Your Account:</span>{" "}
+                  to manage your registration as a user of the Service. The
+                  Personal Data you provide can give you access to different
+                  functionalities of the Service that are available to you as a
+                  registered user.
                 </p>
               </li>
 
               <li>
                 <p className="text-sm sm:text-base mb-3 leading-7">
-                  Usage Data
-                </p>
-              </li>
-            </ul>
-
-            <p className="text-sm sm:text-base mb-3 leading-7">
-            We may share your personal information in the following situations:
-            </p>
-
-            <ul className="list-disc pl-5">
-              <li>
-                <p className="text-sm sm:text-base mb-3 leading-7">
-                  <span className="font-semibold">Account</span> means a unique
-                  account created for You to access our Service or parts of our
+                  <span className="font-semibold">
+                    For the performance of a contract:
+                  </span>{" "}
+                  the development, compliance, and undertaking of the purchase
+                  contract for the products, items, or services you have
+                  purchased or of any other contract with us through the
                   Service.
                 </p>
               </li>
+
               <li>
                 <p className="text-sm sm:text-base mb-3 leading-7">
-                  <span className="font-semibold">Affiliate</span> means an
-                  entity that controls, is controlled by or is under common
-                  control with a party, where &quot;control&quot; means
-                  ownership of 50% or more of the shares, equity interest or
-                  other securities entitled to vote for election of directors or
-                  other managing authority.
-                </p>
-              </li>
-              <li>
-                <p className="text-sm sm:text-base mb-3 leading-7">
-                  Email address
-                </p>
-              </li>
-              <li>
-                <p className="text-sm sm:text-base mb-3 leading-7">
-                  First name and last name
+                  <span className="font-semibold">To Contact You:</span> To
+                  contact you by email, telephone calls, SMS, or other
+                  equivalent forms of electronic communication, such as a mobile
+                  application&apos;s push notifications regarding updates or
+                  informative communications related to the functionalities,
+                  products, or contracted services, including the security
+                  updates, when necessary or reasonable for their
+                  implementation.
                 </p>
               </li>
 
               <li>
                 <p className="text-sm sm:text-base mb-3 leading-7">
-                  Phone number
+                  <span className="font-semibold">To provide You</span> with
+                  news, marketing content, special offers, and general
+                  information about other goods, services, and events that we
+                  offer that are similar to those that you have already
+                  purchased or enquired about, however, we will provide you with
+                  an option to unsubscribe if you do not want to receive such
+                  information from the Company.
                 </p>
               </li>
 
               <li>
                 <p className="text-sm sm:text-base mb-3 leading-7">
-                  Address, State, Province, ZIP/Postal code, City
+                  <span className="font-semibold">
+                    To manage Your requests:
+                  </span>{" "}
+                  To attend and manage your requests to us.
                 </p>
               </li>
 
               <li>
                 <p className="text-sm sm:text-base mb-3 leading-7">
-                  Usage Data
+                  <span className="font-semibold">For business transfers:</span>{" "}
+                  We may use your information to evaluate or conduct a merger,
+                  divestiture, restructuring, reorganization, dissolution, or
+                  other sale or transfer of some or all of our assets, whether
+                  as a going concern or as part of bankruptcy, liquidation, or
+                  similar proceeding, in which Personal Data held by us about
+                  our service users is among the assets transferred.
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  <span className="font-semibold">For other purposes:</span> We
+                  may use your information for other purposes, such as data
+                  analysis, identifying usage trends, determining the
+                  effectiveness of our promotional campaigns, and evaluating and
+                  improving our service, products, services, marketing, and your
+                  experience.
                 </p>
               </li>
             </ul>
 
             <p className="text-sm sm:text-base mb-3 leading-7">
-            In providing you with our Service, we may rely on third-parties located in foreign jurisdictions from time to time, which as a result, may require the transfer or maintenance of your personally identifiable data on computers or servers in foreign jurisdictions. In situations where this may occur, we will endeavor to ensure that such foreign jurisdictions have data protection legislation that is no less than the existing data protection regulations in force in Nigeria and that your personally identifiable data is treated in a safe and secure manner.
+              We may share your personal information in the following
+              situations:
+            </p>
+
+            <ul className="list-disc pl-5">
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  <span className="font-semibold">With Service Providers:</span>{" "}
+                  We may share your personal information with Service Providers
+                  to monitor and analyze the use of our Service, to contact you.
+                </p>
+              </li>
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  <span className="font-semibold">For business transfers:</span>{" "}
+                  We may share or transfer your personal information in
+                  connection with, or during negotiations of, any merger, sale
+                  of Company assets, financing, or acquisition of all or a
+                  portion of our business to another company.
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  <span className="font-semibold">With Affiliates:</span> We may
+                  share Your information with Our affiliates, in which case we
+                  will require those affiliates to honor this Data Privacy and
+                  Protection Policy. Affiliates include Our parent company and
+                  any other subsidiaries, joint venture partners or other
+                  companies that We control or that are under common control
+                  with Us.
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  <span className="font-semibold">With business partners:</span>{" "}
+                  We may share Your information with Our business partners to
+                  offer You certain products, services or promotions.
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  <span className="font-semibold">With other users:</span> when
+                  You share personal information or otherwise interact in the
+                  public areas with other users, such information may be viewed
+                  by all users and may be publicly distributed outside.
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  <span className="font-semibold">With Your consent:</span> We
+                  may disclose Your personal information for any other purpose
+                  with Your consent.
+                </p>
+              </li>
+            </ul>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              In providing you with our Service, we may rely on third-parties
+              located in foreign jurisdictions from time to time, which as a
+              result, may require the transfer or maintenance of your personally
+              identifiable data on computers or servers in foreign
+              jurisdictions. In situations where this may occur, we will
+              endeavor to ensure that such foreign jurisdictions have data
+              protection legislation that is no less than the existing data
+              protection regulations in force in Nigeria and that your
+              personally identifiable data is treated in a safe and secure
+              manner.
             </p>
           </section>
+
+
+
+          
         </section>
         <Footer />
       </main>
