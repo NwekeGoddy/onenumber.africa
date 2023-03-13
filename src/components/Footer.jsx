@@ -2,33 +2,33 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <footer class="divide-y divide-[#ddd] font-nova text-black bg-[#f6f6f6] shadow">
-      <div class="max-w-7xl mx-auto p-10 md:p-20">
-        <div class="flex flex-col space-y-8 md:space-y-0 md:flex-row md:space-x-28 items-start justify-center text-xl text-gray-700">
+    <footer className="divide-y divide-[#ddd] font-nova text-black bg-[#f6f6f6] shadow">
+      <div className="max-w-7xl mx-auto p-10 md:p-20">
+        <div className="flex flex-col space-y-8 md:space-y-0 md:flex-row md:space-x-28 items-start justify-center text-xl text-gray-700">
           <div>
-            <h4 class="mb-6 text-[1.1rem] text-gray-400">One Number</h4>
-            <h3 class="font-bold mb-1.5 text text-gray-500">Get Started</h3>
-            <ul class="flex flex-col space-y-2">
+            <h4 className="mb-6 text-[1.1rem] text-gray-400">One Number</h4>
+            <h3 className="font-bold mb-1.5 text text-gray-500">Get Started</h3>
+            <ul className="flex flex-col space-y-2">
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   Overview
                 </a>
               </li>
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   How it works
                 </a>
               </li>
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   Customer Stories
                 </a>
@@ -36,37 +36,37 @@ export default function Footer() {
             </ul>
           </div>
           <div>
-            <div class="mb-0 md:mb-6 text-[1.1rem]">&nbsp;</div>
-            <h3 class="font-bold mb-1.5 text-gray-500">Top Features</h3>
-            <ul class="flex flex-col space-y-2">
+            <div className="mb-0 md:mb-6 text-[1.1rem]">&nbsp;</div>
+            <h3 className="font-bold mb-1.5 text-gray-500">Top Features</h3>
+            <ul className="flex flex-col space-y-2">
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   Desktop + Mobile Apps
                 </a>
               </li>
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   Business Texting
                 </a>
               </li>
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   Call Forwarding
                 </a>
               </li>
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   Voicemail Transcription
                 </a>
@@ -74,36 +74,36 @@ export default function Footer() {
             </ul>
           </div>
           <div>
-            <h4 class="mb-6 text-gray-500">Types of Numbers</h4>
-            <ul class="flex flex-col space-y-2">
+            <h4 className="mb-6 text-gray-500">Types of Numbers</h4>
+            <ul className="flex flex-col space-y-2">
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   Toll Free Numbers
                 </a>
               </li>
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   Vanity Numbers
                 </a>
               </li>
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   Local Numbers
                 </a>
               </li>
               <li>
                 <a
-                  href=""
-                  class="text-gray-400 text-[14px] hover:text-gray-500"
+                  href="#"
+                  className="text-gray-400 text-[14px] hover:text-gray-500"
                 >
                   Port your Number
                 </a>
@@ -112,18 +112,18 @@ export default function Footer() {
           </div>
         </div>
       </div>
-      <div class="max-w-7xl mx-auto flex flex-col space-y-8 items-start md:items-center justify-center p-10">
-        <ul class="flex flex-col md:flex-row space-y-3 md:space-y-0 md:space-x-10 items-start">
-          <li class="mr-10 text-gray-600">
-            <a href="" class="hover:text-orange-900">
+      <div className="max-w-7xl mx-auto flex flex-col space-y-8 items-start md:items-center justify-center p-10">
+        <ul className="flex flex-col md:flex-row space-y-3 md:space-y-0 md:space-x-10 items-start">
+          <li className="mr-10 text-gray-600">
+            <a href="#" className="hover:text-orange-900">
               Contact Us
             </a>
           </li>
-          <ul class="flex space-x-10 items-start">
+          <ul className="flex space-x-10 items-start">
             <li>
-              <a href="">
+              <a href="#">
                 <svg
-                  class="stroke-[#666] hover:stroke-orange-900"
+                  className="stroke-[#666] hover:stroke-orange-900"
                   fill="none"
                   width="19px"
                   height="25px"
@@ -138,9 +138,9 @@ export default function Footer() {
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="#">
                 <svg
-                  class="stroke-[#666] hover:stroke-orange-900"
+                  className="stroke-[#666] hover:stroke-orange-900"
                   fill="none"
                   width="14px"
                   height="25px"
@@ -155,9 +155,9 @@ export default function Footer() {
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="#">
                 <svg
-                  class="stroke-[#666] hover:stroke-orange-900"
+                  className="stroke-[#666] hover:stroke-orange-900"
                   fill="none"
                   width="23px"
                   height="22px"
@@ -172,9 +172,9 @@ export default function Footer() {
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="#">
                 <svg
-                  class="stroke-[#666] hover:stroke-orange-900"
+                  className="stroke-[#666] hover:stroke-orange-900"
                   fill="none"
                   width="23px"
                   height="24px"
@@ -199,29 +199,29 @@ export default function Footer() {
             </li>
           </ul>
         </ul>
-        <ul class="flex flex-col md:flex-row space-y-3 md:space-y-0 md:space-x-10 items-start md:items-center justify-center text-sm">
-          <li class="text-gray-400">
-            <a href="" class="hover:text-gray-600">
+        <ul className="flex flex-col md:flex-row space-y-3 md:space-y-0 md:space-x-10 items-start md:items-center justify-center text-sm">
+          <li className="text-gray-400">
+            <a href="#" className="hover:text-gray-600">
               Terms and Conditions
             </a>
           </li>
-          <li class="text-gray-400">
-            <a href="" class="hover:text-gray-600">
+          <li className="text-gray-400">
+            <a href="#" className="hover:text-gray-600">
               Privacy Policy
             </a>
           </li>
-          <li class="text-gray-400">
-            <a href="" class="hover:text-gray-600">
+          <li className="text-gray-400">
+            <a href="#" className="hover:text-gray-600">
               Sitemap
             </a>
           </li>
-          <li class="text-gray-400">
-            <a href="" class="hover:text-gray-600">
+          <li className="text-gray-400">
+            <a href="#" className="hover:text-gray-600">
               Cookie Preferences
             </a>
           </li>
         </ul>
-        <p x-data="" class="text-gray-400 text-sm">
+        <p x-data="" className="text-gray-400 text-sm">
           Copyright © <span x-text="new Date().getFullYear()"></span> One
           Number.
         </p>

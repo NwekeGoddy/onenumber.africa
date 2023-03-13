@@ -1,6 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
-import Logo from '../../public/logo.png'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 

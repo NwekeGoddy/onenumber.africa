@@ -3,16 +3,14 @@ import Image from "next/image";
 import Logo from "../../public/logo.png";
 
 export default function Header() {
-  return ( 
-
-    
+  return (
     <header className="bg-black font-nova sticky top-0 z-50 text-white">
       <div className="flex items-center justify-between py-5 px-6 sm:px-12 md:px-16 max-w-7xl mx-auto">
         {/* left side */}
         <div>
           {/* logo */}
-          <a href="." className="flex items-center space-x-2">
-            <Image src={Logo} width={50} height={50} />
+          <a href="#" className="flex items-center space-x-2">
+            <Image src={Logo} width={50} height={50} alt="one number's logo" />
             <h1 className="font-bold text-2xl">One Number</h1>
           </a>
         </div>
@@ -31,7 +29,7 @@ export default function Header() {
             Types of Numbers
           </a>
           <a
-            href
+            href='#'
             className="border-b-2 border-transparent hover:border-orange-400"
           >
             Pricing
@@ -39,13 +37,13 @@ export default function Header() {
         </nav>
         {/* Right nav */}
         <div className="hidden md:flex text-center">
-          {/* <nav class="flex space-x-3 text-xs">
+          {/* <na#v class="flex space-x-3 text-xs">
         <a href="">RESOURCES</a>
-        <a href="">CONTACT US</a>
-        <a href="">LOG IN</a>
-      </nav> */}
+        <a href="#">CONTACT US</a>
+        <a href="#">LOG IN</a>
+      </na#v> */}
           <a
-            href
+            href='#'
             className="bg-orange-600 hover:bg-opacity-90 px-3 py-1 font-bold"
           >
             TRY FREE
