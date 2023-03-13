@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Logo from "../../public/logo.png";
+import Link from 'next/link';
 
 export default function Header() {
   return (
@@ -9,10 +10,12 @@ export default function Header() {
         {/* left side */}
         <div>
           {/* logo */}
-          <a href="#" className="flex items-center space-x-2">
-            <Image src={Logo} width={50} height={50} alt="one number's logo" />
+          
+          <Link href="/" className="flex items-center space-x-2">
+            <Image src={Logo} width={50} height={50} alt="one number logo" />
             <h1 className="font-bold text-2xl">One Number</h1>
-          </a>
+          </Link>
+
         </div>
         {/* middle nav */}
         <nav className="hidden md:flex items-center space-x-5">

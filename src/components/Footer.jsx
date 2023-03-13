@@ -1,4 +1,5 @@
 import React from "react";
+import Link from 'next/link';
 
 export default function Footer() {
   return (
@@ -206,9 +207,10 @@ export default function Footer() {
             </a>
           </li>
           <li className="text-gray-400">
-            <a href="#" className="hover:text-gray-600">
+            <Link href="/privacy-policy" className="hover:text-gray-600">
+              {" "}
               Privacy Policy
-            </a>
+            </Link>
           </li>
           <li className="text-gray-400">
             <a href="#" className="hover:text-gray-600">
