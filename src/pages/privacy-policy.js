@@ -1041,6 +1041,37 @@ export default function PrivacyPolicy() {
               by the revised Data Privacy and Protection Policy
             </p>
           </section>
+
+          {/* Section 14 */}
+          <section className="mb-4 sm:mb-8 text-gray-900">
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              14. Dispute Resolution
+            </h3>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Any dispute arising out of or in connection with the use of this
+              App, including any question regarding its existence, validity, or
+              termination, shall be referred to and finally resolved by the
+              Lagos Court of Arbitration (International Centre for Arbitration
+              and ADR).
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              The number of arbitrators shall be one. The seat, or legal place,
+              of arbitration shall be Lagos State, Nigeria.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              The language to be used in the arbitration shall be English. The
+              decision of the arbitrator shall be final and binding and shall
+              not be appealable to any court in any jurisdiction. However, any
+              Party may enter such decision in any court having competent
+              jurisdiction.
+            </p>
+          </section>
+
+
+          
         </section>
         <Footer />
       </main>
