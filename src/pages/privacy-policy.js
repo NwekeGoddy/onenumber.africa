@@ -584,7 +584,153 @@ export default function PrivacyPolicy() {
               </li>
             </ul>
           </section>
-          
+
+          {/* Section 8 */}
+          <section className="mb-4 sm:mb-8 text-gray-900">
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              8. Data Subject Rights
+            </h3>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Once your Personal Data is held by us, you are entitled to reach
+              out to us to exercise the following rights:
+            </p>
+
+            <ul className="list-disc pl-5">
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  Request access to your personal data (commonly known as a
+                  “data subject access request”): This enables you to receive a
+                  copy of the personal data we hold about you and to check that
+                  we are lawfully processing it. You will not have to pay a fee
+                  to access your personal data (or to exercise any of your other
+                  rights). However, we may charge a reasonable fee if your
+                  request is clearly unfounded, repetitive or excessive.
+                  Alternatively, we may notify you of our refusal to comply with
+                  your request in these circumstances. Where we have reasonable
+                  doubts concerning the identity of the natural person making
+                  the request for information, we may request the provision of
+                  additional information necessary to confirm the identity of
+                  the Data Subject. Where data is held electronically in a
+                  structured form, such as in a Database, as the Data Subject,
+                  you have a right to receive that data in a common electronic
+                  format.
+                </p>
+              </li>
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  Right to request correction of the Personal Data that we hold
+                  about you: This enables you to have any incomplete or
+                  inaccurate data we hold about you corrected, though we may
+                  need to verify the accuracy of the new data you provide to us.
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  Right to request erasure of your Personal Data: This enables
+                  you to ask us to delete or remove personal data where there is
+                  no good reason for us continuing to process it. You also have
+                  the right to ask us to delete or remove your personal data
+                  where you have successfully exercised your right to object to
+                  processing where we may have processed your information
+                  unlawfully or where we are required to erase your Personal
+                  Data to comply with Nigerian law. Note, however, that we may
+                  not always be able to comply with your request for erasure for
+                  specific legal reasons which will be notified to you, if
+                  applicable, at the time of your request.
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  Right to object to the processing of your personal data: Where
+                  we are relying on a legitimate interest (or those of a third
+                  party) there maybe something about your particular situation
+                  which could justify an objection to processing on this ground
+                  as you may feel it impacts on your fundamental rights and
+                  freedoms. You also have the right to object where we are
+                  processing your Personal Data for direct marketing purposes.
+                  In some cases, we may demonstrate that we have compelling
+                  legitimate grounds to process your information which override
+                  your rights and freedoms.
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  Right to request restriction of processing of your Personal
+                  Data: This enables you to ask us to suspend the processing of
+                  your Personal Data in the following scenarios:
+                </p>
+
+                <ul className="list-square pl-5">
+                  <li>
+                    <p className="text-sm sm:text-base mb-3 leading-7">If you want us to establish the data’s accuracy;</p>{" "}
+                  </li>
+                  <li>
+                    <p className="text-sm sm:text-base mb-3 leading-7">
+                      Where our use of the data is unlawful but you do not want
+                      us to erase it;
+                    </p>
+                  </li>
+                  <li>
+                    <p className="text-sm sm:text-base mb-3 leading-7">
+                      {" "}
+                      Where you need us to hold the data even if we no longer
+                      require it as you need it to establish, exercise or defend
+                      legal claims; or
+                    </p>
+                  </li>
+                  <li>
+                    <p className="text-sm sm:text-base mb-3 leading-7">
+                      {" "}
+                      You have objected to our use of your data but we need to
+                      verify whether we have overriding legitimate grounds to
+                      use it.
+                    </p>
+                  </li>
+                </ul>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  Request the transfer of your Personal Data to you or to a
+                  third party: We will provide to you, or a third party you have
+                  chosen, your personal data in a structured, commonly used,
+                  machine-readable format. Note that this right only applies to
+                  automated information which you initially provided consent for
+                  us to use or where we used the information to perform a
+                  contract with you.
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  Withdraw consent at any time where we are relying on consent
+                  to process your Personal Data: This will not affect the
+                  lawfulness of any processing carried out before you withdraw
+                  your consent. If you withdraw your consent, we may not be able
+                  to provide certain products or services to you. We will advise
+                  you if this is the case at the time you withdraw your consent.
+                </p>
+              </li>
+            </ul>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Your request will be reviewed by us and carried out except as
+              restricted by law or our statutory obligations. You may decline to
+              provide your Personal Data when it is requested by us. You may
+              review and update your Personal Data directly or by contacting us
+              <a
+                href="customercare@onenumber.africa"
+                className="text-orange-600"
+              >
+                {" "}
+                customercare@onenumber.africa
+              </a>
+            </p>
+          </section>
         </section>
         <Footer />
       </main>
