@@ -508,8 +508,82 @@ export default function PrivacyPolicy() {
             </p>
           </section>
 
+          {/* Section 7 */}
+          <section className="mb-4 sm:mb-8 text-gray-900">
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              7. Retention of Your Personal Data
+            </h3>
 
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              The Company will retain Your Personal Data only for as long as is
+              necessary for the purposes set out in this Privacy Policy. We will
+              retain and use Your Personal Data to the extent necessary to
+              comply with our legal and statutory obligations.
+            </p>
 
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              We are statutorily obligated to retain Your Personal Data provided
+              to us with in order to process transactions, ensure settlements,
+              make refunds, and identify fraud in compliance with laws and
+              regulatory guidelines applicable to us and our partners.
+              Therefore, even after discontinuance of our Service, we will
+              retain certain Personal Data and Usage Data to comply with these
+              obligations. All Personal Data shall be destroyed by us where
+              possible. For all Personal Data and records obtained, used and
+              stored by us, we shall perform periodical reviews of the data
+              retained to confirm the accuracy, purpose, validity and
+              requirement to retain.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              The Company will also retain Usage Data for internal analysis
+              purposes. Usage Data is generally retained for a shorter period of
+              time, except when this data is used to strengthen the security or
+              to improve the functionality of Our Service, or We are legally
+              obligated to retain this data for longer time periods.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              The length of storage of your Personal Data shall, amongst other
+              things, be determined by:
+            </p>
+
+            <ul className="list-disc pl-5">
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  the contract terms agreed between us and the Data Subject or
+                  as long as it is needed for the purpose for which it was
+                  obtained; or
+                </p>
+              </li>
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  whether the relationship has statutory implication or a
+                  required retention period; or
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  whether there is an express request for deletion of the
+                  Personal Data by the Data Subject, provided that such request
+                  will only be treated where the Data Subject is not under any
+                  investigation which may require us to retain such Personal
+                  Data or there is no subsisting contractual arrangement with
+                  the Data Subject that would require the processing of the
+                  Personal Data; or
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  whether we have another lawful basis for retaining that
+                  information beyond the period for which it is necessary to
+                  serve the original purpose.
+                </p>
+              </li>
+            </ul>
+          </section>
           
         </section>
         <Footer />
