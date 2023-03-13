@@ -874,6 +874,111 @@ export default function PrivacyPolicy() {
               Nigeria shall be provided to you upon request.
             </p>
           </section>
+
+          {/* Section 10 */}
+          <section className="mb-4 sm:mb-8 text-gray-900">
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              10. Our Lawful Basis for Processing Personal Data
+            </h3>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              We will only use and process your Personal Data as permitted by
+              the Nigerian Data Protection Regulation 2019 (Nigerian Data
+              Protection Regulation). We have set out below a description of all
+              the legal bases we may rely on to process your personal data:
+            </p>
+
+            <ul className="list-disc pl-5">
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  where you have given us consent to the processing of your
+                  personal data for one or more specific purposes;
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  where processing is necessary for the performance of a
+                  contract to which you are a party or in order to take steps at
+                  your request prior to entering into a contract;
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  where processing is necessary for compliance with a legal
+                  obligation to which we are subject;
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  where processing is necessary in order to protect your vital
+                  interests or the vital interests of another natural person,
+                  and
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  where processing is necessary for the performance of a task
+                  carried out in the public interest or in exercise of an
+                  official public mandate vested in us.
+                </p>
+              </li>
+            </ul>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Note that we may process your Personal Data for more than one
+              lawful ground depending on the specific purpose for which we are
+              using your Personal Data. Please contact us by sending an email
+              to: …[NAME OF DPO; [EMAIL OF DPO], if you need details about the
+              specific legal ground we are relying on to process your personal
+              data where more than one ground may have been used to process your
+              personal data.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              For the purpose of this Data Privacy and Protection Policy,
+              consent means any freely given, specific, informed and unambiguous
+              indication of the Data Subject&apos;s wishes by which they,
+              through a statement or a clear affirmative action, signify their
+              agreement to the processing of Personal Information relating to
+              them.
+            </p>
+          </section>
+
+          {/* Section 11 */}
+          <section className="mb-4 sm:mb-8 text-gray-900">
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              11. Delete Your Personal Data
+            </h3>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              You have the right to delete or request that We assist in deleting
+              the Personal Data that We have collected about You.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Our Service may give You the ability to delete certain information
+              about You from within the Service.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              You may update, amend, or delete Your information at any time by
+              signing in to Your Account, if you have one, and visiting the
+              account settings section that allows you to manage Your personal
+              information. You may also contact Us to request access to,
+              correct, or delete any personal information that You have provided
+              to Us.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Please note, however, that We may need to retain certain
+              information when we have a legal obligation or lawful basis to do
+              so.
+            </p>
+          </section>
         </section>
         <Footer />
       </main>
