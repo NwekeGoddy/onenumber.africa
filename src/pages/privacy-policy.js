@@ -952,7 +952,7 @@ export default function PrivacyPolicy() {
           {/* Section 11 */}
           <section className="mb-4 sm:mb-8 text-gray-900">
             <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
-              12. Security of Your Personal Data
+              11. Security of Your Personal Data
             </h3>
 
             <p className="text-sm sm:text-base mb-3 leading-7">
@@ -979,10 +979,11 @@ export default function PrivacyPolicy() {
               >
                 {" "}
                 customercare@onenumber.africa
-              </a>. If We become aware that We have
-              collected Personal Data from anyone under the age of 18 without
-              verification of parental consent, We take steps to remove that
-              information from Our servers.
+              </a>
+              . If We become aware that We have collected Personal Data from
+              anyone under the age of 18 without verification of parental
+              consent, We take steps to remove that information from Our
+              servers.
             </p>
 
             <p className="text-sm sm:text-base mb-3 leading-7">
@@ -993,8 +994,27 @@ export default function PrivacyPolicy() {
             </p>
           </section>
 
+          {/* Section 12 */}
+          <section className="mb-4 sm:mb-8 text-gray-900">
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              12. Links to Other Websites
+            </h3>
 
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Our Service may contain links to other websites that are not
+              operated by Us. If You click on a third party link, You will be
+              directed to that third party&apos;s site. We strongly advise You
+              to review the Privacy Policy of every site You visit.
+            </p>
 
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              We have no control over and assume no responsibility for the
+              content, privacy policies or practices of any third party sites or
+              services.
+            </p>
+          </section>
+
+          
         </section>
         <Footer />
       </main>
