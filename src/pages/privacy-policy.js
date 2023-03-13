@@ -666,7 +666,9 @@ export default function PrivacyPolicy() {
 
                 <ul className="list-square pl-5">
                   <li>
-                    <p className="text-sm sm:text-base mb-3 leading-7">If you want us to establish the data’s accuracy;</p>{" "}
+                    <p className="text-sm sm:text-base mb-3 leading-7">
+                      If you want us to establish the data’s accuracy;
+                    </p>{" "}
                   </li>
                   <li>
                     <p className="text-sm sm:text-base mb-3 leading-7">
@@ -729,6 +731,147 @@ export default function PrivacyPolicy() {
                 {" "}
                 customercare@onenumber.africa
               </a>
+            </p>
+          </section>
+
+          {/* Section 9 */}
+          <section className="mb-4 sm:mb-8 text-gray-900">
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              9. Transfer of Your Personal Data
+            </h3>
+
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              Third Party Processor within Nigeria and Foreign County
+            </h3>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Your information, including Personal Data, is processed at the
+              Company&apos;s operating offices and in any other places where the
+              parties involved in the processing are located. It means that this
+              information may be transferred to — and maintained on — computers
+              located outside of Your state, province, country or other
+              governmental jurisdiction where the data protection laws may
+              differ than those from Your jurisdiction.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              The processing by such third parties shall be governed by a
+              written contract with us to ensure adequate protection and
+              security measures are put in place by the third party for the
+              protection of Personal Information in accordance with the terms of
+              this Privacy Policy.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              We may share your information with law enforcement agencies,
+              public or tax authorities or other organizations if legally
+              required to do so, or if we have a good faith belief that such use
+              is reasonably necessary to:
+            </p>
+
+            <ul className="list-disc pl-5">
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  comply with a legal obligation, process or request (including
+                  tax and related reporting requirements);
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  enforce our Terms of Service and other agreements, policies,
+                  and standards, including investigation of any potential
+                  violation thereof;
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  detect, prevent or otherwise address security, fraud or
+                  technical issues; or
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  protect the rights, property or safety of us, our users, a
+                  third party or the public as required or permitted by law
+                  (including exchanging information with other
+                </p>
+              </li>
+            </ul>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Please see the list of third-party processors we share your
+              personal data with on our website.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Where Personal Data is to be transferred to a country outside
+              Nigeria, we shall put adequate measures in place to ensure the
+              security of such Personal Data. In particular, we shall, among
+              other things, confirm whether the country is on the National
+              Information Technology Development Agency (“NITDA”) White List of
+              Countries with adequate data protection laws.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Transfer of Personal Data out of Nigeria would be in accordance
+              with the provisions of the Nigeria Data Protection Regulation
+              (&quot;NDPR&quot;). We will therefore only transfer Personal Data
+              out of Nigeria on one of the following conditions:
+            </p>
+
+            <ul className="list-disc pl-5">
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  the consent of the Data Subject has been obtained;
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  the transfer is necessary for the performance of a contract
+                  between us and the Data Subject or implementation of
+                  pre-contractual measures taken at the Data Subject’s request;
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  the transfer is necessary to conclude a contract between us
+                  and a third party in the interest of the Data Subject;
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  the transfer is necessary for reason of public interest;
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  the transfer is for the establishment, exercise or defense of
+                  legal claims;
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  the transfer is necessary in order to protect the vital
+                  interests of the Data Subjects or other persons, where the
+                  Data Subject is physically or legally incapable of giving
+                  consent.
+                </p>
+              </li>
+            </ul>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              We will take all necessary steps to ensure that your Personal Data
+              is transmitted in a safe and secure manner. Details of the
+              protection given when your Personal Data is transferred outside
+              Nigeria shall be provided to you upon request.
             </p>
           </section>
         </section>
