@@ -4,12 +4,13 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 
 export default function PrivacyPolicy() {
-  //  <section className="">
-  //   <h3 className="">1.	Introduction</h3>
-
-  //   <p></p>
-
-  //  </section>
+  //  <a
+//   href="customercare@onenumber.africa"
+//   className="text-orange-600"
+// >
+//   {" "}
+//   customercare@onenumber.africa
+// </a>
 
   return (
     <>
@@ -951,34 +952,49 @@ export default function PrivacyPolicy() {
           {/* Section 11 */}
           <section className="mb-4 sm:mb-8 text-gray-900">
             <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
-              11. Delete Your Personal Data
+              12. Security of Your Personal Data
             </h3>
 
             <p className="text-sm sm:text-base mb-3 leading-7">
-              You have the right to delete or request that We assist in deleting
-              the Personal Data that We have collected about You.
+              The security of Your Personal Data is important to Us, but
+              remember that no method of transmission over the Internet, or
+              method of electronic storage is 100% secure. While We strive to
+              use commercially acceptable means to protect Your Personal Data,
+              We cannot guarantee its absolute security.
             </p>
 
             <p className="text-sm sm:text-base mb-3 leading-7">
-              Our Service may give You the ability to delete certain information
-              about You from within the Service.
+              <span className="font-semibold">Age Restriction.</span> Our
+              Service are not directed to persons under the age of 18. We do not
+              knowingly collect personally identifiable information from anyone
+              under the age of 18.
             </p>
 
             <p className="text-sm sm:text-base mb-3 leading-7">
-              You may update, amend, or delete Your information at any time by
-              signing in to Your Account, if you have one, and visiting the
-              account settings section that allows you to manage Your personal
-              information. You may also contact Us to request access to,
-              correct, or delete any personal information that You have provided
-              to Us.
+              If You are a parent or guardian and You are aware that Your child
+              has provided Us with Personal Data, please notify Us at
+              <a
+                href="customercare@onenumber.africa"
+                className="text-orange-600"
+              >
+                {" "}
+                customercare@onenumber.africa
+              </a>. If We become aware that We have
+              collected Personal Data from anyone under the age of 18 without
+              verification of parental consent, We take steps to remove that
+              information from Our servers.
             </p>
 
             <p className="text-sm sm:text-base mb-3 leading-7">
-              Please note, however, that We may need to retain certain
-              information when we have a legal obligation or lawful basis to do
-              so.
+              If We need to rely on consent as a legal basis for processing Your
+              information and Your country requires consent from a parent, We
+              may require Your parent&apos;s consent before We collect and use
+              that information.
             </p>
           </section>
+
+
+
         </section>
         <Footer />
       </main>
