@@ -1070,8 +1070,112 @@ export default function PrivacyPolicy() {
             </p>
           </section>
 
+          {/* Section 15 */}
+          <section className="mb-4 sm:mb-8 text-gray-900">
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              15. Dispute Resolution
+            </h3>
 
-          
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              You may file a complaint in accordance with this Data Privacy and
+              Protection Policy if you believe that any provision of this Data
+              Privacy and Protection Policy or your privacy rights have been
+              violated in respect of your personal information or if your access
+              to our Service have been compromised, to enable us to take the
+              necessary steps towards ensuring the security of your Personal
+              Data. All complaints must be addressed to the Company by sending
+              an email to our Data Protection Officer using the following
+              contact details:{" "}
+              <a
+                href="mailto:customercare@onenumber.africa"
+                className="text-orange-600"
+              >
+                customercare@onenumber.africa
+              </a>
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Please note that, the complaint and resolution procedure is not
+              prejudicial to your right to complain to the data protection
+              authorities (in this case, the National Information Technology
+              Development Agency (NITDA)) using the following contact details:
+            </p>
+
+            <address className="mb-3">
+              Address
+              <br />
+              No. 28, Port Harcourt Crescent,
+              <br />
+              Off Gimbiya Street, P.M.B 564, Area 11
+              <br />
+              Garki, Abuja,
+              <br />
+              Nigeria.
+              <br />
+              Email:{" "}
+              <a href="mailto:info@nitda.gov.ng" className="text-orange-600">
+                info@nitda.gov.ng
+              </a>
+              ,
+            </address>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              We will notify you of any breach and also notify National
+              Information Technology Development Agency (NITDA) within 72 hours
+              of becoming aware of such a breach.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              You may also seek redress in a court of competent jurisdiction. We
+              would, however, appreciate the chance to deal with your concerns
+              before you approach the data protection authorities. Kindly
+              contact us in the first instance by sending an email to:
+              <a
+                href="mailto:customercare@onenumber.africa"
+                className="text-orange-600"
+              >
+                customercare@onenumber.africa
+              </a>
+            </p>
+          </section>
+
+          {/* Section 16 */}
+          <section className="mb-4 sm:mb-8 text-gray-900">
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              16. Questions and Inquiries
+            </h3>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              You may contact us if you have any questions relating to this Data
+              Privacy and Protection Policy or would like to find out more about
+              exercising your data protection rights. All questions, comments,
+              and requests regarding this Policy should be addressed to
+              customercare@onenumber.africa
+            </p>
+
+            <ul className="list-disc pl-5">
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  By email:{" "}
+                  <a
+                    href="mailto:customercare@onenumber.africa"
+                    className="text-orange-600"
+                  >
+                    customercare@onenumber.africa
+                  </a>
+                </p>
+              </li>
+
+              <li>
+                <p className="text-sm sm:text-base mb-3 leading-7">
+                  By phone number:{" "}
+                  <a href="tel:+234 034722472" className="text-orange-600">
+                    +2348034722472
+                  </a>
+                </p>
+              </li>
+            </ul>
+          </section>
         </section>
         <Footer />
       </main>
