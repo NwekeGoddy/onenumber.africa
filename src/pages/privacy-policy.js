@@ -1014,7 +1014,33 @@ export default function PrivacyPolicy() {
             </p>
           </section>
 
-          
+          {/* Section 13 */}
+          <section className="mb-4 sm:mb-8 text-gray-900">
+            <h3 className="text-xl sm:text-2xl mb-2 sm:mb-4 font-medium">
+              13. Updates, Modifications and Amendments
+            </h3>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              We may update Our Data Privacy and Protection Policy from time to
+              time. We advise that you check this page often, referring to the
+              date of the last modification on the page. We will also try to
+              notify You of any changes by posting the new Privacy Policy on
+              this page. The changes will not be retroactive.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              We will let You know via email and/or a prominent notice on Our
+              Service, prior to the change becoming effective and update the
+              &quot;Last updated&quot; date at the top of this Privacy Policy.
+            </p>
+
+            <p className="text-sm sm:text-base mb-3 leading-7">
+              Changes to this Data Privacy and Protection Policy are effective
+              when they are posted on this page. By continuing to use our
+              Services after the changes become effective, you agree to be bound
+              by the revised Data Privacy and Protection Policy
+            </p>
+          </section>
         </section>
         <Footer />
       </main>
