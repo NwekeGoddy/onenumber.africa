@@ -19,7 +19,7 @@ export default function Home() {
           <Header />
 
           {/* Hero */}
-          <section className="text-gray-900 relative">
+          <section className="text-gray-900 bg-gray-200 relative">
             <div className="pt-14 px-6 sm:px-12 md:px-16 max-w-7xl mx-auto">
               <h2 className="text-5xl text-center font-bold font-nova">
                 Connect the world with one number.

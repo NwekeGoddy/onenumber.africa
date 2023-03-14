@@ -21,7 +21,7 @@ export default function PrivacyPolicy() {
         <link rel="icon" href={"/logo.png"} />
       </Head>
 
-      <main className="relative">
+      <main className="relative bg-gray-200">
         <Header />
         <section className="pt-10 px-6 sm:px-12 md:px-16 max-w-7xl mx-auto">
           <h5 className="text-lg sm:text-2xl lg:text-4xl text-center font-bold text-gray-800 mb-6 sm:mb-12">
