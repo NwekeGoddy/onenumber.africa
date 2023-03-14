@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
 
       <main class="relative">
-        <div class="text-white relative">
+        <div class="text-white bg-gray-200 relative">
           {/* Header Section */}
           <Header />
 
